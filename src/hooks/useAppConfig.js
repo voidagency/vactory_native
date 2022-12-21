@@ -1,0 +1,1 @@
+export { useAppConfig } from "@vactory/app/AppConfigContext"
